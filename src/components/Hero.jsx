@@ -70,7 +70,7 @@ const Hero = () => {
 
         <div className="mini-stats">
           <div>
-            <strong>4+</strong>
+            <strong>10+</strong>
             <span>Projects</span>
           </div>
           <div>
